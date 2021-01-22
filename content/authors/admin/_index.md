@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 關於本節目
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+#role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #- Artificial Intelligence
@@ -38,12 +38,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.facebook.com/opencafetw/
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/open_cafe
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -57,6 +57,10 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+開放咖啡角是自製中文podcast，介紹或討論值得關注的開放科學文獻或評論，以及討論需要深入閱讀的重要文獻。節目設計三種單元：(1)咖啡伴侶；(2)烘焙工坊；(3)隨行外帶。
+**咖啡伴侶**由一位主講人以大約五到十分鐘的時間，介紹開放科學入門文獻，或值得關注的公開評論先準備好一杯咖啡，品嚐完畢就能聽完一篇文獻的介紹與評論。
+**烘焙工坊**邀請兩位以上來賓，一起談論值得深入閱讀的著作，或值得討論的科學議題。長度不設限，與你一起評論重量級論文的觀點，以及討論值得關注的科學議題。
+**隨行外帶**不設定主題，是主講人最近的心得抒發。
+本節目討論的資料由主持人挑選或聽眾推薦，部分單元將結合主持人線下開設的課程或論文研讀班，提供線上互動討論及學習的資源。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+每集節目原始錄音檔與朗讀稿可從節目OSF取得:https://osf.io/nmk2w/
