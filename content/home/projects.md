@@ -2,11 +2,13 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-weight: 20
 
 content:
   # Page type to display. E.g. project.
   page_type: project
+
+  active= true
+  weight= 20
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
   filter_default: 0
