@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Hello
+title: 我們的製作理念
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
