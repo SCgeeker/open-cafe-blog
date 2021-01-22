@@ -1,7 +1,12 @@
+---
 widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+weight: 20
+
+title: 各集節目
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -35,3 +40,4 @@ design:
   view: 3
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+---
