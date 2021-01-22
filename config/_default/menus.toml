@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "各集節目"
   url = "/"
   weight = 10
 
 [[main]]
-  name = "About"
+  name = "關於本節目"
   url = "about/"
   weight = 20
