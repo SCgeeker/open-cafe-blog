@@ -13,10 +13,10 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "Ocean"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -147,7 +147,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "c", show_logo = false, highlight_active_link = false, show_language = false}
+main_menu = {align = "c", show_logo = true, highlight_active_link = false, show_language = false}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = false
@@ -160,7 +160,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "{license}"}
 
 # Highlight the site author (superuser) in author lists? (true/false)
 highlight_superuser = false
@@ -183,7 +183,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 ############################
 ## Comments
@@ -193,11 +193,11 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  #   3: utteranc ()
-  engine = 0
+  #   3: Utterances (https://utteranc.es/)
+  engine = 3
 
   # Which page types are commentable?
-  commentable = {post = true}
+  commentable = {post = false, project = true}
 
   # Configuration of Disqus.
   [comments.disqus]
@@ -267,4 +267,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/

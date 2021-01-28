@@ -3,9 +3,9 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-weight: 20
+weight: 10
 
-title: 各集節目
+title: 
 subtitle: ''
 
 content:
