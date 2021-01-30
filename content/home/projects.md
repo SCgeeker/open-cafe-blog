@@ -3,7 +3,7 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-weight: 10
+weight: 20
 
 title: 
 subtitle: ''
@@ -37,7 +37,7 @@ design:
   #   2 = Compact  
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---

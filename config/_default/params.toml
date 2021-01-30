@@ -80,6 +80,15 @@ edit_page = {repo_url = "", content_dir = "", repo_branch = "master", editable =
 # Show related content at the bottom of pages?
 show_related = {post = true}
 
+# Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+# [[feature]]
+#  icon = "your-custom-icon-name"
+#  icon_pack = "custom"
+#  name = "Surfing"
+#  description = "90%"
+
 ############################
 ## Contact details
 ##
@@ -183,7 +192,9 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "square"
+  shape = "square"   # fit podcast logo
+
+
 
 ############################
 ## Comments
@@ -268,3 +279,5 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  #custom = true
+

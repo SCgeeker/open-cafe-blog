@@ -78,6 +78,11 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_type = "publication_types"
   author = "authors"
 
+
+# Like ID
+[params]
+  likerID = "pmsp9698261"
+
 # Related content.
 [related]
   threshold = 80.0

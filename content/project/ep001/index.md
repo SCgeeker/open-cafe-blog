@@ -1,5 +1,5 @@
 ---
-title: ep1 偽陽心理學
+title: EP1 偽陽心理學
 summary: "什麼是False Psychology"
 tags:
 - 咖啡伴侶
@@ -38,4 +38,3 @@ date: "2019-12-31"
 
 Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. doi: [10.1177/0956797611417632](http://pss.sagepub.com/content/22/11/1359)
 
-##### 歡迎留言，請先登入個人github帳號
