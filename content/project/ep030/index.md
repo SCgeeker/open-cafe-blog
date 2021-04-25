@@ -1,5 +1,5 @@
 ---
-title: EP30 烘焙工坊 It's a China thing_feat.南京師範大學心理學院胡傳鵬老師
+title: EP30 It's a China thing_feat.南京師範大學心理學院胡傳鵬老師
 summary: "與久未聯絡的胡傳鵬老師聊聊中國大陸近期的學術不端事件，以及兩岸的學術及研究倫理發展狀況。"
 tags:
 - 烘焙工坊
